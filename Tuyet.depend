@@ -1,0 +1,698 @@
+# depslib dependency file v1.0
+1683560328 source:d:\tuyet\background.cpp
+	"Background.h"
+
+1682435062 d:\tuyet\background.h
+	"LTexture.h"
+
+1682435359 d:\tuyet\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1683560404 source:d:\tuyet\character.cpp
+	"Character.h"
+
+1682435011 d:\tuyet\character.h
+	"LTexture.h"
+
+1683560434 source:d:\tuyet\fire.cpp
+	"Fire.h"
+
+1682435191 d:\tuyet\fire.h
+	"LTexture.h"
+
+1683563093 source:d:\tuyet\ladder.cpp
+	"Ladder.h"
+
+1682434890 d:\tuyet\ladder.h
+	"LTexture.h"
+
+1681345437 source:d:\tuyet\ltexture.cpp
+	"LTexture.h"
+
+1683563114 source:d:\tuyet\snake.cpp
+	"Snake.h"
+
+1682435125 d:\tuyet\snake.h
+	"LTexture.h"
+
+1694442810 source:d:\tuyet\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"Menu.h"
+	"YouWin.h"
+
+1683554352 d:\tuyet\level1.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1682435236 d:\tuyet\stone.h
+	"LTexture.h"
+
+1683563042 source:d:\tuyet\stone.cpp
+	"Stone.h"
+
+1683564148 source:d:\tuyet\level1.cpp
+	<fstream>
+	"Level1.h"
+
+1683654226 d:\tuyet\gate.h
+	"LTexture.h"
+
+1683560464 source:d:\tuyet\gate.cpp
+	"Gate.h"
+
+1682848978 d:\tuyet\key.h
+	"LTexture.h"
+
+1683560490 source:d:\tuyet\key.cpp
+	"Key.h"
+
+1694443370 source:d:\tuyet\level2.cpp
+	<fstream>
+	"Level2.h"
+
+1683564449 d:\tuyet\level2.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1683088090 d:\tuyet\level.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1683645887 source:d:\tuyet\level3.cpp
+	<fstream>
+	"Level3.h"
+
+1683701057 d:\tuyet\level3.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1683728352 source:d:\tuyet\menu.cpp
+	<fstream>
+	"Menu.h"
+
+1683728390 d:\tuyet\menu.h
+	<iostream>
+	"Background.h"
+	"Key.h"
+	"Title.h"
+
+1683654321 d:\tuyet\title.h
+	"LTexture.h"
+
+1683653914 source:d:\tuyet\title.cpp
+	"Title.h"
+
+1683733526 source:d:\tuyet\youwin.cpp
+	<fstream>
+	"YouWin.h"
+
+1683732930 d:\tuyet\youwin.h
+	<iostream>
+	"Background.h"
+
+1700330205 source:e:\tuyet\background.cpp
+	"Background.h"
+
+1700330205 e:\tuyet\background.h
+	"LTexture.h"
+
+1700330205 e:\tuyet\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1700330205 source:e:\tuyet\character.cpp
+	"Character.h"
+
+1700330205 e:\tuyet\character.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\fire.cpp
+	"Fire.h"
+
+1700330205 e:\tuyet\fire.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\gate.cpp
+	"Gate.h"
+
+1700330205 e:\tuyet\gate.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\key.cpp
+	"Key.h"
+
+1700330205 e:\tuyet\key.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\ladder.cpp
+	"Ladder.h"
+
+1700330205 e:\tuyet\ladder.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\level1.cpp
+	<fstream>
+	"Level1.h"
+
+1700330205 e:\tuyet\level1.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1700330205 e:\tuyet\snake.h
+	"LTexture.h"
+
+1700330205 e:\tuyet\stone.h
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\level2.cpp
+	<fstream>
+	"Level2.h"
+
+1700330205 e:\tuyet\level2.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1700330205 source:e:\tuyet\level3.cpp
+	<fstream>
+	"Level3.h"
+
+1700330205 e:\tuyet\level3.h
+	<iostream>
+	"Ladder.h"
+	"Character.h"
+	"Background.h"
+	"Snake.h"
+	"Fire.h"
+	"Stone.h"
+	"Gate.h"
+	"Key.h"
+
+1700330205 source:e:\tuyet\ltexture.cpp
+	"LTexture.h"
+
+1700330205 source:e:\tuyet\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	"LTexture.h"
+	"Level1.h"
+	"Level2.h"
+	"Level3.h"
+	"Menu.h"
+	"YouWin.h"
+
+1700330205 e:\tuyet\menu.h
+	<iostream>
+	"Background.h"
+	"Key.h"
+	"Title.h"
+
+1700330205 e:\tuyet\title.h
+	"LTexture.h"
+
+1700330205 e:\tuyet\youwin.h
+	<iostream>
+	"Background.h"
+
+1700330205 source:e:\tuyet\menu.cpp
+	<fstream>
+	"Menu.h"
+
+1700330205 source:e:\tuyet\snake.cpp
+	"Snake.h"
+
+1700330205 source:e:\tuyet\stone.cpp
+	"Stone.h"
+
+1700330205 source:e:\tuyet\title.cpp
+	"Title.h"
+
+1700330205 source:e:\tuyet\youwin.cpp
+	<fstream>
+	"YouWin.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\close_code.h
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1693592847 e:\thuviensdl\sdl2-2.28.3\i686-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675730664 e:\thuviensdl\sdl2_image-2.6.3\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1675731439 e:\thuviensdl\sdl2_mixer-2.6.3\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
